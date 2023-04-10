@@ -1,0 +1,62 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.Head{
+position:sticky;
+width: 100%;
+background-color: white;
+top: 0;
+transition: top 0.2s ease-in-out;
+z-index: 100;
+}
+.hide {
+  display: none;
+}
+.show {
+  opacity: 1;
+}
+
+section{
+  padding: 60px 0;
+}
+#intro{
+  padding: 0 0;
+}
+
+.card-img img{
+  width: 200px;
+  height: 260px;
+}
+#pricing{
+  background-image: url(./components/assets/images/Harry+Potter+Books.png);
+  background-size:contain;
+}
+#query{
+  height:140px; 
+}
+
+.offcanvas-body{
+  background-image: url(./components/assets/images/Da5ccYpM_500x.webp);
+  background-repeat: no-repeat;
+  background-position: 30%;
+
+}
+#tshirtpricing{
+  background-image: url(./components/assets/images/Harry+Potter+Illustrated+Edition.jpg);
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+#magicstickspricing{
+  background-image: url(./components/assets/images/books-2.jpg);
+  background-size:contain;
+}
+
+.cart-display-count{
+  position: absolute;
+  z-index: 100;
+  bottom: 0px;
+  right: 0px;
+  color: white;
+}
