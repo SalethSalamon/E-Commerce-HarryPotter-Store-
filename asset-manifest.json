@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/css/main.e8539269.css",
+    "main.js": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/js/main.b891e83e.js",
+    "static/media/Harry+Potter+Books.png": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/media/Harry+Potter+Books.80dad598a8618dc6cb66.png",
+    "static/media/fantastic-beasts-crimes-of-grindelwald-screenplay.png": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/media/fantastic-beasts-crimes-of-grindelwald-screenplay.7f9c4228fad13927a070.png",
+    "static/media/chapter-3.jpg": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/media/chapter-3.372702a706086a28fd2b.jpg",
+    "static/media/fb-secrets-dumbledore.webp": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/media/fb-secrets-dumbledore.120e61907bc2082da097.webp",
+    "static/media/chapter-2.jpg": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/media/chapter-2.0da472a0523a7e7be501.jpg",
+    "static/media/rectangle-11.webp": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/media/rectangle-11.061e7c40f8bcb5c189de.webp",
+    "static/media/Harry+Potter+Illustrated+Edition.jpg": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/media/Harry+Potter+Illustrated+Edition.978e300987967cbca88c.jpg",
+    "static/media/book-1.png": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/media/book-1.7628525178c5a987f5a3.png",
+    "static/media/chapter-7.png": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/media/chapter-7.269d53bdbe80b10478f5.png",
+    "static/media/books-2.jpg": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/media/books-2.de4361750b02f5e61509.jpg",
+    "static/media/chapter-1.png": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/media/chapter-1.7fc05153783740021a8a.png",
+    "static/media/SeekPng.com_magic-book-png_2734161.png": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/media/SeekPng.com_magic-book-png_2734161.eae07812fdd638c80c48.png",
+    "static/media/ravenclaw.jpg": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/media/ravenclaw.29eb50d3ad6612f9c090.jpg",
+    "static/media/harry.jpg": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/media/harry.b7d804648c1cbb7e15a5.jpg",
+    "static/media/hogwarts.jpg": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/media/hogwarts.0ec29004a29247939b19.jpg",
+    "static/media/Da5ccYpM_500x.webp": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/media/Da5ccYpM_500x.730e755e482689488235.webp",
+    "static/media/chapter-6.png": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/media/chapter-6.6d49f667bdf81885049b.png",
+    "static/media/chapter-4.jpg": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/media/chapter-4.421f8239d79a579674ea.jpg",
+    "static/media/chapter-5.jpg": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/media/chapter-5.e7dc448c23f9e7ed2e36.jpg",
+    "index.html": "/SalethSalamon.github.io/ecommerce-harrypotter-store/index.html",
+    "main.e8539269.css.map": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/css/main.e8539269.css.map",
+    "main.b891e83e.js.map": "/SalethSalamon.github.io/ecommerce-harrypotter-store/static/js/main.b891e83e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8539269.css",
+    "static/js/main.b891e83e.js"
+  ]
+}
